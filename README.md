@@ -12,3 +12,5 @@ Hollo eclipse git2
 add Index
 
 add Index2
+
+eclipse pull
